@@ -12,7 +12,7 @@ This is a simple game built in Python using the Turtle Graphics package for Pyth
 
 ![c41](https://user-images.githubusercontent.com/5299394/29577143-a2805d4c-8727-11e7-83bc-e0db69bacb70.png)
 
-The AI is very simple. If it detects that the next move made by a player is going to cause a Connect 4, it will block it. 
+The AI is very simple. If it detects that the next move made by a player is going to cause a Connect 4, it will block it. Otherwise it attempts to stack on the best possible move available in either the vertical or horizontal direction.
 
 ![c42](https://user-images.githubusercontent.com/5299394/29577145-a2825e6c-8727-11e7-905f-13b78b633796.png)
 
