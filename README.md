@@ -7,6 +7,7 @@
 - Built using Wing IDE
 
 **Overview**
+
 This is a simple game built in Python using the Turtle Graphics package for Python. On starting the game the program randomly decides whether the computer or the user goes first and displays it on the bottom right corner of the screen.
 
 ![c41](https://user-images.githubusercontent.com/5299394/29577143-a2805d4c-8727-11e7-83bc-e0db69bacb70.png)
